@@ -16,6 +16,16 @@
 	font-family: Verdana, sans-serif;
 }
 
+.nameSection {
+    font-size: medium;
+}
+.dates {
+	display: block;
+	 float: left;
+	 margin: 20px;
+     font-size: small;
+	
+}
 #container {
 	max-width: 1320px;
 	min-width: 600px;
@@ -25,9 +35,4 @@
     margin: auto;
 }
 
-.dates {
-	display: block;
-	 float: left;
-	 margin: 20px;
-	
-}
+
